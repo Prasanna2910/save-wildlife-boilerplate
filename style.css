@@ -28,12 +28,16 @@ p {
 nav,
 #credits {
   background-color: black;
-  height: 60px;
+  height: 40px;
   /* Your code goes here */
 }
 
 .container {
-  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 350px;
+  width : 500px;
+  align-items: center;
   /* Your code goes here */
 }
 
